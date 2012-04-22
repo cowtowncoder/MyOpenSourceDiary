@@ -16,6 +16,8 @@ Most activities are within projects under following repos:
 * [@cowtowncoder](https://github.com/cowtowncoder) (personal)
 * [FasterXML](https://github.com/FasterXML) ("official" Jackson, Woodstox, Aalto)
 * [Ning](https://github.com/ning) (my former employee's repo; see "compress" LZF)
-* Codehaus, various:
+* Codehaus, various: (note, some are moving to GitHub)
+ * [Jackson 1.x](http://jackson.codehaus.org)
  * [Woodstox](http://woodstox.codehaus.org)
+ * [StaxMate](http://staxmate.codehaus.org)
 
